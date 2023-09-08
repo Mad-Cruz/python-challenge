@@ -9,7 +9,7 @@ cwd = os.getcwd()
 # print(cwd)
 import csv
 P = "Resources/budget_data.csv"
-date = []
+date = [] #creates empty list
 profit_and_loss = []
 changes_in_PnL = []
 total_number_of_months = 0
